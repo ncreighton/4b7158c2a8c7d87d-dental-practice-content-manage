@@ -1,2 +1,28 @@
-# 4b7158c2a8c7d87d-dental-practice-content-manage
-You shouldn't need a virtual assistant just to move data between apps to automate a multi-tool business process in an afternoon.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Dental Practice Content Managem
+# Dental Practice Content Management and Publishing API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2cN5aDd5wge00fQ8cZH1M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2cN5aDd5wge00fQ8cZH1M)
+
